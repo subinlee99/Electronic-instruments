@@ -1,5 +1,5 @@
 # Electronic instruments
-#Sogang Univ. Physical Computing Studio 
+# Sogang Univ. Physical Computing Studio 
 
 
 **In order to make music, you need to learn lots of stuff, such as way to play the instument, notes and ect...This makes it the non-expert person in music hard to make one.However, everyone know how to bounce back and forth along the rhythm or tap with their fingers to make a simple beat.**
